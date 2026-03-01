@@ -17,4 +17,8 @@ Este repositorio incluye el desarrollo de la aplicación (`VisitaMédica`) desar
 2. Asegurar que las credenciales coincidan en `ConnexioBBDD.java` dentro del paquete `infraestructura`.
 3. Compilar el programa y arrancar desde la interfaz principal.
 
+## Vista Previa
+![Captura de la aplicación](captura.png)
+
 > *Nota: Demostración grabada adjuntada mediante recurso externo (ver enlace de video abajo si corresponde).*
+
